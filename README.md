@@ -35,9 +35,27 @@ Here are some ideas to get you started:
         <span>𝗝𝗮𝘃𝗮</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
+    </tr>
+    <tr valign="top">
       <td width="25%" align="center">
         <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗖#</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
       </td>
     </tr>
     <tr valign="top">
@@ -48,6 +66,14 @@ Here are some ideas to get you started:
       <td width="25%" align="center">
         <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Qtcreator</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/qt.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>TensorFlow</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
       </td>
     </tr>
   </tbody>
