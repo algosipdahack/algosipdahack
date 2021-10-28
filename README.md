@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ---
+## Some Statistics About Me
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=algosipdahack&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algosipdahack&theme=buefy&layout=compact" />
