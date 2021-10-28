@@ -24,6 +24,10 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
       </td>
       <td width="25%" align="center">
+        <span>𝗖++</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
+      </td>
+      <td width="25%" align="center">
         <span>𝗖#</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
       </td>
@@ -37,10 +41,6 @@ Here are some ideas to get you started:
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗦𝘂𝗯𝗹𝗶𝗺𝗲 𝗧𝗲𝘅𝘁 𝟯</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg">
-      </td>
       <td width="25%" align="center">
         <span>𝗚𝗶𝘁</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
