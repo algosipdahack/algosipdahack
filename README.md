@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=algosipdahack&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algosipdahack&layout=compact&theme=material-palenight)
+<!-- ![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=BoYeonJang&layout=compact&theme=material-palenight) -->
 
 Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/algosipdahack)
 
