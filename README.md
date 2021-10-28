@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</br></br>
-<h2>💻 Some stats 💻</h2>
+---
 
-![algosipdahack's github stats](https://github-readme-stats.vercel.app/api?username=algosipdahack&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=algosipdahack&show_icons=true&hide_border=true)
+
+Check for a detailed stats here :point_right: [Sourcerer](https://sourcerer.io/algosipdahack)
+
+---
 
 
 ## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
