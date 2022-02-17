@@ -62,6 +62,10 @@ Here are some ideas to get you started:
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
+      <td width="25%" align="center">
+        <span>SpringBoot</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
