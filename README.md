@@ -47,7 +47,7 @@
 	<a href="https://velog.io/@sophia5460">
 		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
 	</a>
-	<a href="https://www.instagram.com/soyeo_neeeee/)">
+	<a href="https://www.instagram.com/soyeo_neeeee/">
 		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
 	</a>
 	<br>
