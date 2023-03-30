@@ -65,11 +65,6 @@
 
 <div align=center>
 	<h3>✏️ Blog Posts</h3>
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=sophia5460)](https://velog.io/@sophia5460)
 </div>
-<!-- BLOG-POST-LIST:START -->
-- [리팩터링 : 1장](https://velog.io/@sophia5460/%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81-1%EC%9E%A5)
-- [주절주절2..](https://velog.io/@sophia5460/%EC%A3%BC%EC%A0%88%EC%A3%BC%EC%A0%882)
-- [코테 문제풀이 9일차](https://velog.io/@sophia5460/%EC%BD%94%ED%85%8C-%EB%AC%B8%EC%A0%9C%ED%92%80%EC%9D%B4-9%EC%9D%BC%EC%B0%A8)
-- [IOC / DI](https://velog.io/@sophia5460/IOC-DI)
-- [인덱스](https://velog.io/@sophia5460/%EC%9D%B8%EB%8D%B1%EC%8A%A4)
-<!-- BLOG-POST-LIST:END -->
