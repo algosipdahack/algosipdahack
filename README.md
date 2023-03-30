@@ -1,95 +1,64 @@
 <div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=SoyeonCho&fontSize=70&animation=twinkling)
-
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Soyeon%20Github!&fontSize=90" />	
 </div>
-
-<h1 align="center">Hello, I'm Algosipdahack 👋 </h1>
-<h3 align="center">🚀 network & backend developer 🚀</h3>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falgosipdahack&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-                                                
-<!--
-**algosipdahack/algosipdahack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
----
-## Some Statistics About Me
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=algosipdahack&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=algosipdahack&theme=buefy&layout=compact" />
-
----
-
+<div align=center>
+	<h3>📚 Tech Stack 📚</h3>
+	<p>✨ Platforms & Languages ✨</p>
+</div>
+<div align="center">
+	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+	<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=Spring%20Security&logoColor=white" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=JUnit5&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+	<img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white" />
+	<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🛠 Tools 🛠</p>
+</div>
+<div align=center>
+	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
+	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
+	<br>
+	<img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white" />
+	<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white" />
+	<img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=white" />
+	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
+</div>
+<br>
+<div align=center>
+	<p>🎨 SNS & Portfolio 🎨</p>
+</div>
+<div align=center>
+	<a href="https://separate-shame-945.notion.site/9d3ed414bee14ba89a8f60a6d088eb34">
+		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
+	</a>
+	<a href="https://velog.io/@sophia5460">
+		<img src="https://img.shields.io/badge/Blog-FF9800?style=flat&logo=Blogger&logoColor=white" />
+	</a>
+	<a href="https://www.instagram.com/soyeo_neeeee/)">
+		<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" />
+	</a>
+	<br>
+</div>
+<div align=center>
+	<br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=algosipdahack&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=algosipdahack&show_icons=true">
+<br>
+<br>
+<p>🏆 Baekjoon solved rank 🏆</p>
+	
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sophia5460)](https://solved.ac/sophia5460/)
-
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
-
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖++</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-plusplus.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗖#</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗣𝘆𝘁𝗵𝗼𝗻</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Node.js</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Javascript</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>SpringBoot</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>Qtcreator</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/qt.svg">
-      </td>
-      <td width="25%" align="center">
-        <span>TensorFlow</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/tensorflow.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+</div>
