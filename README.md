@@ -41,7 +41,7 @@
 	<p>🎨 SNS & Portfolio 🎨</p>
 </div>
 <div align=center>
-	<a href="https://separate-shame-945.notion.site/9d3ed414bee14ba89a8f60a6d088eb34">
+	<a href="https://separate-shame-945.notion.site/fa4dcbdc6c53423cb9bc97b4e05508b0">
 		<img src="https://img.shields.io/badge/Portfolio-FF3633?style=flat&logo=Micro.blog&logoColor=white" />
 	</a>
 	<a href="https://velog.io/@sophia5460">
